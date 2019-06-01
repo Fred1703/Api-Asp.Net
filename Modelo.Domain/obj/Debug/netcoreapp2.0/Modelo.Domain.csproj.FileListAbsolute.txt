@@ -1,0 +1,9 @@
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\bin\Debug\netcoreapp2.0\Modelo.Domain.deps.json
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\bin\Debug\netcoreapp2.0\Modelo.Domain.dll
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\bin\Debug\netcoreapp2.0\Modelo.Domain.pdb
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\obj\Debug\netcoreapp2.0\Modelo.Domain.csprojAssemblyReference.cache
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\obj\Debug\netcoreapp2.0\Modelo.Domain.csproj.CoreCompileInputs.cache
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\obj\Debug\netcoreapp2.0\Modelo.Domain.AssemblyInfoInputs.cache
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\obj\Debug\netcoreapp2.0\Modelo.Domain.AssemblyInfo.cs
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\obj\Debug\netcoreapp2.0\Modelo.Domain.dll
+C:\Asp.Net core\Modelo.Api2\Modelo.Domain\obj\Debug\netcoreapp2.0\Modelo.Domain.pdb

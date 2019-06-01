@@ -1,0 +1,14 @@
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Service.deps.json
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Service.dll
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Service.pdb
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Domain.dll
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Infra.Data.dll
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Domain.pdb
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\bin\Debug\netcoreapp2.0\Modelo.Infra.Data.pdb
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.csprojAssemblyReference.cache
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.csproj.CoreCompileInputs.cache
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.AssemblyInfoInputs.cache
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.AssemblyInfo.cs
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.csproj.CopyComplete
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.dll
+C:\Asp.Net core\Modelo.Api2\Modelo.Service\obj\Debug\netcoreapp2.0\Modelo.Service.pdb
